@@ -1,5 +1,7 @@
-# Inertia Lighting | Privacy policy
+# Inertia Lighting | Privacy Policy
 
-## This repository will be used to store our privacy policies.
+## [website](./website/README.md)
 
-### Coming Soon!
+## [discord-bot-api-server](./discord-bot-api-server/README.md)
+
+## [roblox-products](./roblox-products/README.md)
