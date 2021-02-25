@@ -10,7 +10,7 @@
 - bot = our Discord bot
 - command = a Discord messaging feature used to interact with our Bot
 - api_server = the web server providing an API for usage in our roblox-products ([privacy policy](../roblox-products/README.md))
-- database = any method that we employ to store long-term data
+- database = any method that we employ to store non-cached data
 
 ---
 
