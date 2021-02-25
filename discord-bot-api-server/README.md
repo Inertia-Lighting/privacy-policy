@@ -2,17 +2,23 @@
 
 # Under Construction!
 
+---
+
 ## Definitions:
 - user = you
-- guild = our Discord Server
-- bot = our Discord Bot
+- guild = our Discord server
+- bot = our Discord bot
 - command = a Discord messaging feature used to interact with our Bot
-- api_server = the web server providing an api for usage in our roblox-products ([privacy policy](../roblox-products/README.md))
+- api_server = the web server providing an API for usage in our roblox-products ([privacy policy](../roblox-products/README.md))
 
-## Collected Data:
-- Cached-Only (< 1 day):
-  - coming soon
+---
+
+## Processed Data:
+- Cached-Only:
+  - basic request info (method, path, source, body)
+  - verification codes
 - Short-Term (< 1 month):
-  - coming soon
+  - api_access_keys
 - Long-Term (> 1 month):
-  - coming soon
+  - user info (discord_user_id, roblox_user_id, )
+  - api_identity_tokens
