@@ -4,10 +4,10 @@
 
 ## Definitions:
 - user = you
-- guild = the Discord Server
-- bot = the Discord Bot
-- command = a Discord messaging feature used to interact with the Bot
-- api_server = the http web server providing an api
+- guild = our Discord Server
+- bot = our Discord Bot
+- command = a Discord messaging feature used to interact with our Bot
+- api_server = the web server providing an api for usage in our roblox products ([see privacy policy](../../roblox-products/README.md))
 
 ## Collected Data:
 - Cached-Only (< 1 day):
