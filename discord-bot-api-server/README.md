@@ -5,21 +5,22 @@
 ---
 
 ## Definitions:
-- user = you
-- guild = our Discord server
-- bot = our Discord bot
-- command = a Discord messaging feature used to interact with our Bot
-- api_server = the web server providing an API for usage in our roblox-products ([privacy policy](../roblox-products/README.md))
-- database = any method that we employ to store non-cached data
+- User = you
+- Guild = our Discord server
+- Bot = our Discord bot
+- Command = a Discord messaging feature used to interact with our Bot
+- API_Server = the web server providing an API for usage in our roblox-products ([privacy policy](../roblox-products/README.md))
+- Database = any method that we employ to store non-cached data
 
 ---
 
 ## Processed Data:
-- Cached-Only (auto-removed every restart):
-  - basic request info (method, path, source, body)
-  - verification codes
-- Short-Term (database):
+- Cached-Only (auto-removed every restart of Bot):
+  - basic info from http requests (method, path, source, body)
+  - Bot verification codes
+  - Discord messages in Guild intended for Bot
+- Short-Term (Database):
   - api_access_keys
-- Long-Term (database):
-  - user info (discord_user_id, roblox_user_id, )
+- Long-Term (Database):
+  - user info (discord_user_id, roblox_user_id)
   - api_identity_tokens
