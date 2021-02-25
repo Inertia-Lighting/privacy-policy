@@ -7,7 +7,7 @@
 - guild = our Discord Server
 - bot = our Discord Bot
 - command = a Discord messaging feature used to interact with our Bot
-- api_server = the web server providing an api for usage in our roblox products ([see privacy policy](../roblox-products/README.md))
+- api_server = the web server providing an api for usage in our roblox-products ([privacy policy](../roblox-products/README.md))
 
 ## Collected Data:
 - Cached-Only (< 1 day):
