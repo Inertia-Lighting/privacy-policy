@@ -20,8 +20,8 @@
 - Short-Term (Database):
   - api_access_keys
 - Long-Term (Database):
-  - user info (discord_user_id, roblox_user_id)
-  - api_identity_tokens
+  - user identifiers (discord_user_id, roblox_user_id)
+  - hashed api_identity_tokens
 
 ---
 
