@@ -14,9 +14,9 @@
 
 ## Processed Data:
 - Cached-Only (auto-removed every restart of Bot):
-  - basic info from http requests (method, path, source, body)
-  - Bot verification codes (used with our [product-hub](../roblox-product-hub/README.md))
-  - Discord messages in Guild intended for Bot
+  - basic information from http requests (method, path, source, body)
+  - verification codes (used with our [product-hub](../roblox-product-hub/README.md))
+  - discord messages in our guild intended for our bot
 - Short-Term (Database):
   - api_access_keys
 - Long-Term (Database):
