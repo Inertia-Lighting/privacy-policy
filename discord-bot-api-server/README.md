@@ -1,7 +1,5 @@
 # Inertia Lighting | discord-bot-api-server | Privacy Policy
 
-# Under Construction!
-
 ---
 
 ## Definitions:
@@ -24,3 +22,7 @@
 - Long-Term (Database):
   - user info (discord_user_id, roblox_user_id)
   - api_identity_tokens
+
+---
+
+#### This document will be updated in the future to better inform users of how data is managed and stored.
