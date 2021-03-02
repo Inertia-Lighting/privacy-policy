@@ -3,7 +3,7 @@
 ---
 
 ## Information
-Our products interact with our discord-bot-api-server and shall derive their [privacy policy](../discord-bot-api-server/README.md).
+Our products interact with our discord-bot-api-server and shall derive its [privacy policy](../discord-bot-api-server/README.md).
 
 ---
 
