@@ -1,9 +1,8 @@
 # Inertia Lighting | website | Privacy Policy
 
-# Under Construction!
+---
 
-## Definitions:
-- 
+## Information
+Our website excluding the [api-server](../discord-bot-api-server) does not (collect / procees / store) personally identifiable information.
 
-## Collected Data:
-- 
+---
