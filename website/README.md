@@ -3,7 +3,7 @@
 ---
 
 ## Information:
-Our website excluding the [api-server](../discord-bot-api-server) does not (collect / process / store) personally identifiable information.
+Our website excluding the [api-server](../discord-bot-api-server/README.md) does not (collect / process / store) personally identifiable information.
 
 ---
 
