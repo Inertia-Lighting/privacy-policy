@@ -3,6 +3,11 @@
 ---
 
 ## Definitions:
+- [Roblox](https://en.wikipedia.org/wiki/Roblox)
+- [Discord](https://en.wikipedia.org/wiki/Discord_(software))
+- [Cache](https://en.wikipedia.org/wiki/Cache_(computing))
+- [Garbage Collection](https://en.wikipedia.org/wiki/Garbage_collection_(computer_science))
+- [API](https://en.wikipedia.org/wiki/API)
 - User = you
 - Guild = our Discord server
 - Bot = our Discord bot
@@ -13,7 +18,7 @@
 ---
 
 ## Processed Data:
-- Cached-Only (auto-removed every restart of Bot):
+- Cached-Only (auto-removed by garbage collection):
   - basic information from http requests (method, path, source, body)
   - verification codes (used with our [product-hub](../roblox-product-hub/README.md))
   - discord messages in our guild intended for our bot
