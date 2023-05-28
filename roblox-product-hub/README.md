@@ -1,4 +1,4 @@
-# Inertia Lighting | roblox-product-hub | Privacy Policy
+# Inertia Lighting | Product Hub | Privacy Policy
 
 ---
 
