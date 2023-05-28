@@ -1,4 +1,4 @@
-# Inertia Lighting | website | Privacy Policy
+# Inertia Lighting | Website | Privacy Policy
 
 ---
 
