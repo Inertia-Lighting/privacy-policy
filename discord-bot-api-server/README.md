@@ -1,4 +1,4 @@
-# Inertia Lighting | discord-bot-api-server | Privacy Policy
+# Inertia Lighting | Discord Bot & Api Server | Privacy Policy
 
 ---
 
