@@ -1,9 +1,9 @@
-# Inertia Lighting | roblox-products | Privacy Policy
+# Inertia Lighting | Products | Privacy Policy
 
 ---
 
 ## Information:
-Our products interact with our discord-bot-api-server and shall derive its [privacy policy](../discord-bot-api-server/README.md).
+Our products interact with our **Discord Bot & Api Server** and shall derive its [privacy policy](../discord-bot-api-server/README.md).
 
 ---
 
