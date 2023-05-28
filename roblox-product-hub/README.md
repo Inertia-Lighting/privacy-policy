@@ -3,7 +3,7 @@
 ---
 
 ## Information:
-Our Product Hub interacts with our discord-bot-api-server and shall derive its [privacy policy](../discord-bot-api-server/README.md).
+Our Product Hub interacts with our **Discord Bot & Api Server** and shall derive its [privacy policy](../discord-bot-api-server/README.md).
 
 ---
 
