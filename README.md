@@ -2,8 +2,12 @@
 
 ## [website](./website/README.md)
 
-## [discord-bot-api-server](./discord-bot-api-server/README.md)
+## [api-server](./api-server/README.md)
 
-## [roblox-products](./roblox-products/README.md)
+## [product-hub](./product-hub/README.md)
 
-## [roblox-product-hub](./roblox-product-hub/README.md)
+## [products](./products/README.md)
+
+## [discord-bot](./discord-bot/README.md)
+
+## [discord](./discord/README.md)
