@@ -1,10 +1,10 @@
-# Inertia Lighting | Privacy Policy | Website
+# Inertia Lighting | Privacy Policy | Products
 
 ---
 
 ## Information
 
-Our Website interacts with our Api Server and shall derive its privacy policy.
+Our Products interact with our Api Server and shall derive its privacy policy.
 
 ---
 

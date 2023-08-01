@@ -1,10 +1,10 @@
-# Inertia Lighting | Privacy Policy | Website
+# Inertia Lighting | Privacy Policy | Discord Bot
 
 ---
 
 ## Information
 
-Our Website interacts with our Api Server and shall derive its privacy policy.
+Our Discord Bot interacts with our Api Server and shall derive its privacy policy.
 
 ---
 
